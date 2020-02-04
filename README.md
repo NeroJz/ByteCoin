@@ -11,5 +11,7 @@
 </ul>
 
 <h5>Output</h5>
+<div style="width:80%">
 <img src="images/img1.png" width="30%">
 <img src="images/img2.png" width="30%">
+<div>
